@@ -18,9 +18,14 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+javascript, typescript, nodejs, html, css, react, express, nextjs, tailwild
+python, flask, mongodb, mysql, sqlite, git, github, bash, vitest, 
+discordjs, bots, prisma, vscode, ubuntu
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript, typescript, nodejs, html, css, react, express, nextjs, tailwild" />
+    <img src="https://skillicons.dev/icons?i=python, flask, mongodb, mysql, sqlite, git, github, bash, vitest" />
+    <img src="https://skillicons.dev/icons?i=discordjs, bots, prisma, vscode, ubuntu" />
+    <br>
 </div>
 
 <br/>
