@@ -16,7 +16,7 @@
  <br/>
 
  <div align="center"> 
-  <a href="mailto:victorj.alonzo@gmail.com">
+  <a href="https://x.com/VictorjAlonzo">
     <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=black" />
   </a>
 </div>
