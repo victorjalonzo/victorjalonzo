@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript, typescript, nodejs, html, css, react, express, nextjs, tailwild" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,html,css,react,express,nextjs,tailwild" />
     <img src="https://skillicons.dev/icons?i=python, flask, mongodb, mysql, sqlite, git, github, bash, vitest" />
     <img src="https://skillicons.dev/icons?i=discordjs, bots, prisma, vscode, ubuntu" />
     <br>
