@@ -8,8 +8,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Side projects**
- 
  🌱 I’m currently learning **Artificial Intelligence Techniques**
  
  </div>
