@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<div align='center'>
  
  🌱 I’m currently learning **Artificial Intelligence Techniques**
  
