@@ -34,7 +34,7 @@
 <
 <hr/>
 
-<div align="center">
+<-- div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 <picture>
@@ -45,12 +45,12 @@
   
   <br/><br/><br/>
 </div>
->
+-- >
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=victorjalonzo&hide=HTML&langs_count=11&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=victorjalonzo&hide=HTML&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
