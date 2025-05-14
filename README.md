@@ -3,7 +3,7 @@
     
 </h1>
 
-<h3 align="center">A self-taught Developer from Dominican Republic 🇩🇴</h3>
+<h3 align="center">A self-taught Developer</h3>
 
 <br/>
 
